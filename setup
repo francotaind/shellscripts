@@ -1,5 +1,9 @@
 //this setup contains all scripts that i run on a new machine to get me going
 
 #!/bin/bash
+apt install google chrome
+apt install gh
+apt install git
 
 
+echo 'alias v=mkdir , k=cd' >> /home/francota/.bashrc 
