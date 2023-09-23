@@ -6,4 +6,6 @@ apt install gh
 apt install git
 
 
-echo 'alias v=mkdir , k=cd' >> /home/francota/.bashrc 
+echo 'alias v=mkdir' >> /home/francota/.bashrc 
+
+
