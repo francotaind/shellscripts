@@ -7,5 +7,4 @@ apt install git
 
 
 echo 'alias v=mkdir' >> /home/francota/.bashrc 
-
-
+gh auth login&
