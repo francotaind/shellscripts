@@ -1,10 +1,13 @@
 //this setup contains all scripts that i run on a new machine to get me going
 
 #!/bin/bash
-apt install google chrome
+
+dpkg -i google-chrome-stable_current_amd64.deb
 apt install gh
 apt install git
-
+apt install vim
+apt install vscode
+apt install gcc
 
 echo 'alias v=mkdir' >> /home/francota/.bashrc 
 
