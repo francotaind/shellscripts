@@ -2,7 +2,11 @@
 
 #!/bin/bash
 
+<<<<<<< HEAD
 dpkg -i google-chrome-stable_current_amd64.deb
+=======
+apt install google chrome
+>>>>>>> 100a6704c4f56130da5017033fca44368c3a2693
 apt install gh
 apt install git
 apt install vim
@@ -10,5 +14,4 @@ apt install vscode
 apt install gcc
 
 echo 'alias v=mkdir' >> /home/francota/.bashrc 
-
-
+gh auth login&
