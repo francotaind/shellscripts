@@ -1,43 +1,45 @@
-Bash Script Repository
-This repository contains a collection of Bash scripts for various purposes. Feel free to explore and use these scripts based on your needs.
+0. This repository contains a collection of Bash scripts for various purposes. Feel free to explore and use these scripts based on your needs.
 
 Table of Contents
-Scripts
-Usage
-Contributing
-License
-Scripts
 
-Usage
+1.Usage   
+2.Contributing   
+3.License   
+4.Scripts   
 
-To run a script, follow these steps:
+Usage  
 
-Clone the repository to your local machine:
+To run a script, follow these steps:  
 
-bash
-Copy code
-git clone https://github.com/your-username/bash-script-repo.git
-cd bash-script-repo
-Make the script executable:
+Clone the repository to your local machine:  
 
-bash
-Copy code
-chmod +x script_name.sh
-Run the script:
+bash  
+Copy code  
+git clone https://github.com/francotaind/shellscripts.git   
+cd shellscripts  
+Make the script executable:  
 
 bash
-Copy code
-./script_name.sh
-Customization
-Feel free to customize the scripts or contribute improvements. See the Contributing section for more details.
+Copy code  
+chmod +x script_name.sh   
+Run the script:  
 
-Contributing
-If you'd like to contribute to this project, follow these steps:
+bash
+Copy code  
+./script_name.sh  
+Customization  
+Feel free to customize the scripts or contribute improvements. See the Contributing section for more details.  
 
-Fork the repository.
-Create a new branch for your feature or bug fix: git checkout -b feature-name.
-Make your changes and commit them: git commit -m "Description of changes".
-Push the changes to your fork: git push origin feature-name.
-Create a pull request.
-License
-This repository is licensed under the MIT License.
+Contributing  
+If you'd like to contribute to this project, follow these steps:  
+
+Fork the repository.  
+Create a new branch for your feature or bug fix: git checkout -b feature-name.  
+Make your changes and commit them: git commit -m "Description of changes".  
+Push the changes to your fork: git push origin feature-name.  
+Create a pull request.  
+
+  
+License   
+    
+This repository is licensed under the MIT License.   
